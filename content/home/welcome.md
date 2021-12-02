@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: RECENT-POSTS
+widget_id: hero
 headless: true
 weight: 10
 title: imedeCode
